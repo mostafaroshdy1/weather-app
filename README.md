@@ -1,4 +1,4 @@
-# Weather App live Demo [here](http://mostafaroshdy.great-site.net/webservices/lab1/)
+# Weather App - live Demo [here](http://mostafaroshdy.great-site.net/webservices/lab1/)
 
 This is a simple weather application that provides weather information for cities in Egypt. It utilizes the OpenWeatherMap API to fetch real-time weather data.
 
